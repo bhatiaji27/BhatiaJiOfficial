@@ -1,0 +1,52 @@
+.oneitem,.twoitem,.threeitem{
+  font-size: 2.2rem;
+}
+
+.fouritem{
+  position: relative;
+  left: 5rem;
+}
+
+.handles{
+  height: 220px;
+  padding: 2rem;
+  background-image:url(images/rocks.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.hhh{
+  font-size: 3rem;
+  margin-bottom: 3rem;
+}
+
+.intro{
+  height: 800px;
+}
+
+.profile{
+  height: 1300px;
+  background-image:url(images/my_profile-modified.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.quote{
+  position: relative;
+  width: 64%;
+  top: 52rem;
+  left: 4rem;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.handlediv.visitit{
+  font-size: 60px !important;
+  margin: 0 auto;
+  padding-right: 1.2rem;
+  padding-left: 1.2rem;
+}

@@ -1,0 +1,136 @@
+body{
+  text-align: center;
+}
+
+.hh{
+  font-size: 2rem;
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.hhh,h1{
+  color: #E4DCCF;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 2.2rem;
+}
+
+h2{
+  font-size: 6rem;
+  font-family: "Ubuntu";
+  color: gold;
+}
+
+h3{
+  color: #FFAB4C;
+}
+
+.active{
+  color: #FFA500 !important;
+}
+
+.quote{
+  position: relative;
+  width: 54%;
+  top: 24rem;
+  left: 6rem;
+  color: #2C3639;
+  font-family: "Montserrat-black";
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  margin-right: 1rem;
+}
+
+.handles{
+  height: 150px;
+  padding: 2rem;
+  background-image:url(images/rocks.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.twoitem,.threeitem{
+  color: #FFE5B4 !important;
+}
+
+.twoitem:hover,.threeitem:hover{
+  color: #F77E21 !important;
+}
+
+.details{
+  position: relative;
+  top: 12rem;
+  font-family: "Montserrat-black",sans-serif;
+  font-weight: bolder;
+  font-size: 7rem;
+}
+
+.intro{
+  height:850px;
+  background-image:url(images/rocks.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.oneitem,.twoitem,.threeitem{
+  font-family: "Courgette-black";
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.fouritem{
+  position: relative;
+  top: 1.7rem;
+  left: 45rem;
+}
+
+.profilediv{
+  height: 850px;
+  background-image:url(images/my_profile-modified.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.visitit{
+  font-size: 40px !important;
+  margin: 0 auto;
+  padding-right: 0.7rem;
+  padding-left: 0.7rem;
+}
+
+.visitit:hover{
+  font-size: 50px;
+}
+
+.visititfb{
+  color: blue;
+}
+
+.visititmail{
+  color: red;
+}
+
+.visititwa{
+  color: green;
+}
+
+.visititig{
+  color: #FE4E6E;
+}
+
+.visititli{
+  color: blue;
+}
+
+.visititgh{
+  color: purple;
+}

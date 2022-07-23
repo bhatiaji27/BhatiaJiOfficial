@@ -1,0 +1,176 @@
+body{
+  text-align: center;
+  font-family: "Montserrat";
+}
+
+.content{
+  padding: 1rem;
+}
+
+.cont{
+  font-family: "Montserrat";
+  font-weight: normal;
+  font-size: 1rem;
+  text-align: center;
+}
+
+.contimg{
+  width: 15%;
+  float: right;
+}
+
+h1{
+  color: white;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+
+.hob{
+  color: #00C1D4;
+}
+
+.headd{
+  position: relative;
+  top: 7rem;
+  font-family: "Ubuntu";
+  font-style: italic;
+  font-size: 2.5rem;
+}
+
+.intro{
+  height:800px;
+  background-image:url(images/rocks.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.my{
+  font-family: "Courgette-black";
+  text-decoration: underline;
+  text-decoration-style: double;
+  font-weight: bold;
+  color: #ECC488;
+  font-size: 2.2rem;
+  padding-bottom: 5rem;
+}
+
+.handlediv{
+  position: relative;
+  top: 10rem;
+}
+
+.hobby{
+  height: 680px;
+  background-image:url(images/rocks.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 3rem;
+}
+
+.introduction{
+  height:630px;
+  background-image:url(images/rocks.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  filter: invert(1);
+  padding: 2rem;
+}
+
+a{
+  color: grey;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+
+p{
+  color: white !important;
+  line-height: 1.5;
+  text-align: left;
+  padding:0.5rem 5rem;
+  font-size: 1rem;
+}
+
+.nav-item{
+  margin-right: 1rem;
+}
+
+.oneitem,.twoitem,.threeitem{
+  font-family: "Courgette-black";
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.fouritem{
+  position: relative;
+  top: 1.7rem;
+  left: 44rem;
+}
+
+.active{
+  color: #FFA500 !important;
+}
+
+.details{
+  color: #FF8D29;
+  position: relative;
+  font-family: "Montserrat";
+  font-size: 6rem;
+  top: 10rem;
+}
+
+.handles{
+  height: 100px;
+  padding: 2rem;
+  background-image:url(images/pattern.jpg);
+}
+
+.oneitem,.threeitem{
+  color: #FFE5B4 !important;
+}
+
+.oneitem:hover,.threeitem:hover{
+  color: #F77E21 !important;
+}
+
+.visitit{
+  font-size: 40px !important;
+  margin-right: 30px;
+
+}
+
+.visitit:hover{
+  font-size: 50px;
+}
+
+.visititfb{
+  color: blue;
+}
+
+.visititmail{
+  color: red;
+}
+
+.visititwa{
+  color: green;
+}
+
+.visititig{
+  color: #FE4E6E;
+}
+
+.visititli{
+  color: blue;
+}
+
+.visititgh{
+  color: purple;
+}

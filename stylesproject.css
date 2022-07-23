@@ -1,0 +1,145 @@
+body{
+  text-align: center;
+}
+
+.btn:hover{
+  background-color: yellow;
+  color: black;
+}
+
+.card{
+  width: 22rem;
+  display: inline-block;
+  margin: 2rem;
+}
+
+.card-body{
+  background-color: grey;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+.card-img-top,.card-img-btm{
+  height: 250px;
+}
+
+.card-title{
+  color: black;
+  font-weight: 300;
+}
+
+.details{
+  color: white;
+  position: relative;
+  font-family: "Ubuntu";
+  font-size: 4rem;
+  top: 10rem;
+}
+
+.intro{
+  height:800px;
+  background-image:url(images/rocks.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.many{
+  font-size: 2rem;
+  color: #F77E21;
+  margin: 2rem;
+}
+
+.nav-item{
+  margin-right: 1rem;
+}
+
+.oneitem,.twoitem,.threeitem{
+  font-family: "Courgette-black";
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.projects{
+  height: 800px;
+  background-image:url(images/rocks.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.active{
+  color: #FFA500 !important;
+}
+
+.handles{
+  height: 100px;
+  padding: 2rem;
+  background-image:url(images/pattern.jpg);
+}
+
+.hea{
+  font-family: "Ubuntu-black";
+  font-size: 3.5rem;
+  color: #F5DF99;
+  margin-bottom: 70px;
+  text-decoration: underline;
+}
+
+.headd{
+  position: relative;
+  top: 7rem;
+  font-family: "Ubuntu";
+  font-style: italic;
+  font-size: 2.5rem;
+}
+
+.oneitem,.twoitem{
+  color: #FFE5B4 !important;
+}
+
+.fouritem{
+  position: relative;
+  top: 1.7rem;
+  left: 44rem;
+}
+
+.oneitem:hover,.twoitem:hover{
+  color: #F77E21 !important;
+}
+
+.visitit{
+  font-size: 40px !important;
+  margin-right: 30px;
+
+}
+
+.visitit:hover{
+  font-size: 50px;
+}
+
+.visititfb{
+  color: blue;
+}
+
+.visititmail{
+  color: red;
+}
+
+.visititwa{
+  color: green;
+}
+
+.visititig{
+  color: #FE4E6E;
+}
+
+.visititli{
+  color: blue;
+}
+
+.visititgh{
+  color: purple;
+}
